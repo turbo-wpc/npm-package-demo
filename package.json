@@ -1,11 +1,15 @@
 {
   "name": "@turbo_wang/demo",
-  "version": "2.0.0",
-  "description": "",
+  "version": "2.0.1",
+  "description": "my first npm package demo",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "author": "turbo_wang",
+  "repository": "turbo-wpc/npm-package-demo",
+  "license": "MIT",
+  "keywords": [
+    "npm",
+    "package",
+    "turbo_wang",
+    "demo"
+  ]
 }
